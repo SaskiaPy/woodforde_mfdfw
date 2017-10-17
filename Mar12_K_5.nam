@@ -5,7 +5,8 @@ DIS               11  Mar12_K_5.dis
 NWT               32  Mar12_K_5.nwt 
 BAS6              13  Mar12_K_5.bas 
 UPW               31  Mar12_K_5.upw 
-DFW               12  Mar12_K_5.dfw 
+DFW               12  Mar12_strmbd_corrected.dfw
 OC                14  Mar12_K_5.oc 
+#DATA(BINARY)      58  Mar12_K_5hds.in
 DATA(BINARY)       1  Mar12_K_5.cbc REPLACE
 DATA(BINARY)      51  Mar12_K_5.hds REPLACE

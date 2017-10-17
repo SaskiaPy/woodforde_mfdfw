@@ -5,11 +5,11 @@
          1         1
          0         0
          0         0
-CONSTANT    5.787037E-07                           #hk layer 1                    
-CONSTANT    5.787037E-07                           #vka layer 1                   
+CONSTANT    9.787037E-05                           #hk layer 1                    
+CONSTANT    9.787037E-05                           #vka layer 1                   
 CONSTANT    1.000000E-04                           #ss layer 1                    
-CONSTANT    4.000000E-01                           #sy layer 1                    
-CONSTANT    2.314815E-06                           #hk layer 2                    
-CONSTANT    2.314815E-06                           #vka layer 2                   
+CONSTANT    2.000000E-01                           #sy layer 1                    
+CONSTANT    1.787037E-06                           #hk layer 2                    
+CONSTANT    1.787037E-06                           #vka layer 2                   
 CONSTANT    1.000000E-04                           #ss layer 2                    
-CONSTANT    4.000000E-01                           #sy layer 2                    
+CONSTANT    2.000000E-01                           #sy layer 2                    

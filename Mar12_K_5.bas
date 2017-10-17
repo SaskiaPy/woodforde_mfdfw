@@ -380,4 +380,8 @@ INTERNAL               1    (60I10) -1 #ibound layer 2
         -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1        -1
         -999.99
 CONSTANT    5.477643E+02                           #strt layer 1                  
-CONSTANT    5.477643E+02                           #strt layer 2                  
+CONSTANT    5.477643E+02                           #strt layer 2
+
+
+EXTERNAL     58                   1 (BINARY)  -1 #SS HEADS FOR LAYER 1
+EXTERNAL     58                   1 (BINARY)  -1 #SS HEADS FOR LAYER 2  
